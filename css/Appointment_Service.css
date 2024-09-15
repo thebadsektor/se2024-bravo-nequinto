@@ -1,0 +1,69 @@
+#col3{
+	background: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	border-color: white;
+}
+#col8{
+	background: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+
+
+.book li{
+	color: grey;
+	font-weight: bold;
+	font-size: 18px;
+}
+.book li a{
+	color: grey;
+	font-size: 18px;
+}
+.book li a:hover{
+	color: black;
+	font-weight: bolder;
+	font-size: 20px;
+	transition: 0.1s;
+}
+#active{
+   color: black;
+   font-size: 20px;
+}
+input[type="checkbox"]{
+   width: 20px;
+   height: 20px;
+   color: white;
+   padding-top: 30px;
+   margin-top: 8px;
+}
+label{
+  color: black;
+  padding-left: 10px;
+}
+#btn1{
+	margin-left: 80%;
+}
+span{
+	color: gray;
+	font-size: 15px;
+	font-style: italic;
+}
+
+#img{
+	padding-top: 35px;
+	padding-bottom: 30px;
+}
+
+h4{
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+

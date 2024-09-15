@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 90%;
+	margin: 10px auto;
+}
+
+.portfolio-menu{
+	text-align: center;
+}
+
+.portfolio-menu ul li{
+	display: inline-block;
+	margin: 0;
+	list-style: none;
+	padding: 10px 15px;
+	border: 1px solid GREEN;
+	cursor: pointer;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.portfolio-menu ul li:hover{
+	background: GREEN;
+	color: #ffffff;
+}
+
+.portfolio-item{
+	width: 100%;
+}
+
+.portfolio-item .item{
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+li.active{
+	background: GREEN;
+	color: #ffffff;
+}
+
+img{
+	-webkit-transition : all 0.5s ease;
+  
+  }
+
+/*zoom effect*/
+img:hover{
+	transform: scale(1.2);
+  }
+
+

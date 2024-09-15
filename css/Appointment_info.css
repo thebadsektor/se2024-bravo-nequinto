@@ -1,0 +1,105 @@
+#col3{
+	background: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+	border-color: white;
+}
+#col8{
+	background: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+
+
+.book li{
+	color: grey;
+	font-weight: bold;
+	font-size: 18px;
+}
+.book li a{
+	color: grey;
+	font-size: 18px;
+}
+.book li a:hover{
+	color: black;
+	font-weight: bolder;
+	font-size: 20px;
+	transition: 0.1s;
+}
+#active{
+   color: black;
+   font-size: 20px;
+}
+
+span{
+	color: gray;
+	font-size: 15px;
+	font-style: italic;
+}
+
+h4{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.dotted {
+    border-style: inset;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.form-group{
+    margin-top: 1px;
+    padding-top: 20px;
+}
+
+.btn-default{
+	border-radius: 0px;
+	width: 500px;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 20;
+	margin-left: 190PX;
+
+}
+
+small{
+	font-size: 17px;
+}
+
+input[type="checkbox"]{
+	height: 15px;
+	width: 15px;
+    margin-top: 30PX;
+    padding-top: 25px;
+}
+
+.input-group{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.input-group-addon{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border: 1px solid gray;
+	font-size: 23px;
+    color: gray;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
