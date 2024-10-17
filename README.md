@@ -160,6 +160,9 @@ List all the team members involved in the project. Include their roles and respo
 Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Research and project planning.
+  - Sept 15,2024
+  - Meeting Record
+  https://youtu.be/9ntppOhVC48?si=YGm996a4vtqRdL7w
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
