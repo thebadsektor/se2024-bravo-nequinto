@@ -111,41 +111,41 @@ Explain the structure of the project directory. Example:
 ```bash
 Clonegroup19/
 ├─ ProjectSalon/
-│  ├─ css/
-│  ├─ database/
-│  ├─ fontawsome/
-│  ├─ fonts/
-│  ├─ image/
-│  ├─ js/
-│  ├─ lib/
-│  ├─ source/
-│  ├─ upload/
-│  ├─ aboutus
-│  ├─ adm_staff_action
-│  ├─ adm_staff_add
-│  ├─ adm_staff_db
-│  ├─ adm_staff_list
-│  ├─ Appointment_Info
-│  ├─ Appointment_Service
-│  ├─ Appointment_Stylist
-│  ├─ Appointment_User
-│  ├─ beauticians
-│  ├─ dashboard
-│  ├─ db
-│  ├─ dbconnection
-│  ├─ footer
-│  ├─ gallery
-│  ├─ index
-│  ├─ login
-│  ├─ login_db
-│  ├─ logout
-│  ├─ navbar
-│  ├─ products
-│  ├─ reading_app
-│  ├─ README
-│  ├─ register
-│  ├─ register_db
-│  ├─ services
+   │  ├─ css/
+   │  ├─ database/
+   │  ├─ fontawsome/
+   │  ├─ fonts/
+   │  ├─ image/
+   │  ├─ js/
+   │  ├─ lib/
+   │  ├─ source/
+   │  ├─ upload/
+   │  ├─ aboutus
+   │  ├─ adm_staff_action
+   │  ├─ adm_staff_add
+   │  ├─ adm_staff_db
+   │  ├─ adm_staff_list
+   │  ├─ Appointment_Info
+   │  ├─ Appointment_Service
+   │  ├─ Appointment_Stylist
+   │  ├─ Appointment_User
+   │  ├─ beauticians
+   │  ├─ dashboard
+   │  ├─ db
+   │  ├─ dbconnection
+   │  ├─ footer
+   │  ├─ gallery
+   │  ├─ index
+   │  ├─ login
+   │  ├─ login_db
+   │  ├─ logout
+   │  ├─ navbar
+   │  ├─ products
+   │  ├─ reading_app
+   │  ├─ README
+   │  ├─ register
+   │  ├─ register_db
+   │  ├─ services
 ```
 
 ## Contributors
