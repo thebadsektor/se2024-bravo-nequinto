@@ -163,6 +163,17 @@ Outline the project timeline, including milestones or deliverables. Example:
   - Sept 15,2024
   - Meeting Record
   https://youtu.be/9ntppOhVC48?si=YGm996a4vtqRdL7w
+  - Proposed Features
+    - Service Selection
+    - Staff Selection
+    - Customer Information Entry
+    - Service Details
+    - Service Reviews and Ratings
+    - Appointment Booking
+    - Inventory Management
+    - SMS/Email Notification
+    - Service Details
+    - Service Payment Method
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
